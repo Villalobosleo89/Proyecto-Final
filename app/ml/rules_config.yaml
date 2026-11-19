@@ -1,0 +1,138 @@
+# Configuración de ponderaciones y umbrales para AI-Triage (Versión 1.0)
+base_score: 5.0
+max_score: 100.0
+
+rules:
+  # Compromiso de vía aérea, convulsión actual, inconsciencia, anafilaxia (+40, tope 40)
+  compromiso_vital_extremo:
+    points: 40.0
+    cap: 40.0
+    patterns:
+      - "compromiso de via aerea"
+      - "via aerea obstruida"
+      - "estridor laringeo"
+      - "paro cardiorrespiratorio"
+      - "inconsciencia"
+      - "inconsciente"
+      - "coma"
+      - "glasgow < 9"
+      - "glasgow menor a 9"
+      - "convulsion actual"
+      - "estado epileptico"
+      - "anafilaxia"
+      - "shock anafilactico"
+      - "cianosis central"
+      - "paro respiratorio"
+      - "sin pulso"
+      - "ausencia de pulso"
+      - "sin latido"
+      - "desangrando"
+      - "desangrandose"
+
+  # Dolor torácico opresivo, déficit neurológico agudo, sangrado masivo (+30, tope 30)
+  emergencia_mayor:
+    points: 30.0
+    cap: 30.0
+    patterns:
+      - "dolor toracico opresivo"
+      - "dolor toracico tipico"
+      - "dolor precordial"
+      - "dolor de pecho opresivo"
+      - "deficit neurologico agudo"
+      - "hemiparesia"
+      - "afasia brusca"
+      - "perdida brusca de fuerza"
+      - "sangrado masivo"
+      - "hemorragia activa profusa"
+      - "hematemesis masiva"
+      - "shock hipovolemico"
+      - "herida de punalada"
+      - "heridas de punalada"
+      - "multiples heridas"
+      - "punalada"
+      - "apunalado"
+      - "acuchillado"
+
+  # Signos vitales alterados (+25, tope 25)
+  signos_vitales_inestables:
+    points: 25.0
+    cap: 25.0
+    patterns:
+      - "fc > 130"
+      - "taquicardia severa"
+      - "bradicardia severa"
+      - "fc < 40"
+      - "saturacion o2 < 90"
+      - "sato2 < 90"
+      - "desaturacion severa"
+      - "hipotension severa"
+      - "ta sistolica < 80"
+      - "tas < 80"
+      - "tension arterial baja"
+
+  # Antecedente de riesgo (+15, tope 15)
+  antecedentes_riesgo:
+    points: 15.0
+    cap: 15.0
+    patterns:
+      - "antecedente de iam"
+      - "infarto previo"
+      - "epoc descompensada"
+      - "inmunosupresion"
+      - "embarazo"
+      - "gestante"
+      - "falla cardiaca"
+      - "cirugia reciente"
+
+  # Diagnóstico CIE-10 urgente (+10, tope 10)
+  diagnostico_urgente_cie10:
+    points: 10.0
+    cap: 10.0
+    patterns:
+      - "i20"
+      - "i21"
+      - "i22"
+      - "j96"
+      - "r57"
+      - "i63"
+      - "i64"
+
+  # Síntomas moderados (+8, tope 16)
+  sintomas_moderados:
+    points: 8.0
+    cap: 16.0
+    patterns:
+      - "fiebre > 38.5"
+      - "temperatura 39"
+      - "dolor moderado"
+      - "vomito persistente"
+      - "deshidratacion moderada"
+      - "diarrea persistente"
+      - "cefalea intensa"
+
+umbrales_triaje:
+  nivel_1:
+    min: 80.0
+    max: 100.0
+    descripcion: "Riesgo vital: reanimación inmediata"
+    alerta_push: true
+  nivel_2:
+    min: 60.0
+    max: 79.99
+    descripcion: "Emergencia: evaluación y tratamiento muy urgente"
+    alerta_push: true
+  nivel_3:
+    min: 35.0
+    max: 59.99
+    descripcion: "Urgente: requiere atención en el turno"
+    alerta_push: false
+  nivel_4:
+    min: 15.0
+    max: 34.99
+    descripcion: "Menos urgente: atención en el día"
+    alerta_push: false
+  nivel_5:
+    min: 0.0
+    max: 14.99
+    descripcion: "No urgente: atención programada"
+    alerta_push: false

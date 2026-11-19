@@ -1,0 +1,34 @@
+# AI-Triage v4.0.0 - Dependencias del Proyecto
+# Universidad Manuela Beltrán - Taller de Programación
+
+# Framework Web y Servidor Asincrónico
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+
+# Validación y Contratos de Datos
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+
+# Persistencia Relacional y Migraciones
+sqlalchemy>=2.0.28
+alembic>=1.13.1
+
+# Seguridad, Criptografía y JWT
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+bcrypt>=4.0.0
+
+# Cliente HTTP e Integración Google Gemini API
+requests>=2.31.0
+httpx>=0.27.0
+
+# Configuración y Reglas Clínicas
+pyyaml>=6.0.1
+
+# Calidad de Software, Testing y Carga Concurrente
+pytest>=8.0.0
+locust>=2.28.0
+
+# Generación Automatizada de Entregables Formales
+python-docx>=1.1.0
+python-pptx>=1.0.0

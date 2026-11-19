@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "N1-001",
+    "texto": "Paciente de 40 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-002",
+    "texto": "Paciente de 41 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-003",
+    "texto": "Paciente de 42 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-004",
+    "texto": "Paciente de 43 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-005",
+    "texto": "Paciente de 44 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-006",
+    "texto": "Paciente de 45 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-007",
+    "texto": "Paciente de 46 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-008",
+    "texto": "Paciente de 47 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-009",
+    "texto": "Paciente de 48 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-010",
+    "texto": "Paciente de 49 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-011",
+    "texto": "Paciente de 50 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-012",
+    "texto": "Paciente de 51 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-013",
+    "texto": "Paciente de 52 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-014",
+    "texto": "Paciente de 53 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-015",
+    "texto": "Paciente de 54 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-016",
+    "texto": "Paciente de 55 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-017",
+    "texto": "Paciente de 56 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-018",
+    "texto": "Paciente de 57 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-019",
+    "texto": "Paciente de 58 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-020",
+    "texto": "Paciente de 59 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-021",
+    "texto": "Paciente de 60 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-022",
+    "texto": "Paciente de 61 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-023",
+    "texto": "Paciente de 62 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-024",
+    "texto": "Paciente de 63 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-025",
+    "texto": "Paciente de 64 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-026",
+    "texto": "Paciente de 65 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-027",
+    "texto": "Paciente de 66 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-028",
+    "texto": "Paciente de 67 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-029",
+    "texto": "Paciente de 68 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-030",
+    "texto": "Paciente de 69 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-031",
+    "texto": "Paciente de 70 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-032",
+    "texto": "Paciente de 71 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-033",
+    "texto": "Paciente de 72 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-034",
+    "texto": "Paciente de 73 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-035",
+    "texto": "Paciente de 74 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-036",
+    "texto": "Paciente de 75 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-037",
+    "texto": "Paciente de 76 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-038",
+    "texto": "Paciente de 77 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-039",
+    "texto": "Paciente de 78 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N1-040",
+    "texto": "Paciente de 79 anos ingresa con compromiso de via aerea, inconsciente, dolor toracico opresivo, FC 145 lpm, saturacion o2 < 90 y antecedente de infarto previo IAM.",
+    "nivel_esperado": 1,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-001",
+    "texto": "Paciente de 30 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-002",
+    "texto": "Paciente de 31 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-003",
+    "texto": "Paciente de 32 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-004",
+    "texto": "Paciente de 33 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-005",
+    "texto": "Paciente de 34 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-006",
+    "texto": "Paciente de 35 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-007",
+    "texto": "Paciente de 36 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-008",
+    "texto": "Paciente de 37 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-009",
+    "texto": "Paciente de 38 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-010",
+    "texto": "Paciente de 39 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-011",
+    "texto": "Paciente de 40 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-012",
+    "texto": "Paciente de 41 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-013",
+    "texto": "Paciente de 42 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-014",
+    "texto": "Paciente de 43 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-015",
+    "texto": "Paciente de 44 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-016",
+    "texto": "Paciente de 45 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-017",
+    "texto": "Paciente de 46 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-018",
+    "texto": "Paciente de 47 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-019",
+    "texto": "Paciente de 48 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-020",
+    "texto": "Paciente de 49 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-021",
+    "texto": "Paciente de 50 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-022",
+    "texto": "Paciente de 51 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-023",
+    "texto": "Paciente de 52 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-024",
+    "texto": "Paciente de 53 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-025",
+    "texto": "Paciente de 54 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-026",
+    "texto": "Paciente de 55 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-027",
+    "texto": "Paciente de 56 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-028",
+    "texto": "Paciente de 57 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-029",
+    "texto": "Paciente de 58 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-030",
+    "texto": "Paciente de 59 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-031",
+    "texto": "Paciente de 60 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-032",
+    "texto": "Paciente de 61 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-033",
+    "texto": "Paciente de 62 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-034",
+    "texto": "Paciente de 63 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-035",
+    "texto": "Paciente de 64 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-036",
+    "texto": "Paciente de 65 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-037",
+    "texto": "Paciente de 66 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-038",
+    "texto": "Paciente de 67 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-039",
+    "texto": "Paciente de 68 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N2-040",
+    "texto": "Paciente de 69 anos presenta dolor toracico opresivo agudo y diaforesis profusa, TA sistolica 75/50 con antecedente de IAM previo y saturacion normal.",
+    "nivel_esperado": 2,
+    "especialidad_esperada": "Cardiologia"
+  },
+  {
+    "id": "N3-001",
+    "texto": "Paciente de 20 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-002",
+    "texto": "Paciente de 21 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-003",
+    "texto": "Paciente de 22 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-004",
+    "texto": "Paciente de 23 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-005",
+    "texto": "Paciente de 24 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-006",
+    "texto": "Paciente de 25 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-007",
+    "texto": "Paciente de 26 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-008",
+    "texto": "Paciente de 27 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-009",
+    "texto": "Paciente de 28 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-010",
+    "texto": "Paciente de 29 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-011",
+    "texto": "Paciente de 30 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-012",
+    "texto": "Paciente de 31 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-013",
+    "texto": "Paciente de 32 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-014",
+    "texto": "Paciente de 33 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-015",
+    "texto": "Paciente de 34 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-016",
+    "texto": "Paciente de 35 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-017",
+    "texto": "Paciente de 36 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-018",
+    "texto": "Paciente de 37 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-019",
+    "texto": "Paciente de 38 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-020",
+    "texto": "Paciente de 39 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-021",
+    "texto": "Paciente de 40 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-022",
+    "texto": "Paciente de 41 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-023",
+    "texto": "Paciente de 42 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-024",
+    "texto": "Paciente de 43 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-025",
+    "texto": "Paciente de 44 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-026",
+    "texto": "Paciente de 45 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-027",
+    "texto": "Paciente de 46 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-028",
+    "texto": "Paciente de 47 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-029",
+    "texto": "Paciente de 48 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-030",
+    "texto": "Paciente de 49 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-031",
+    "texto": "Paciente de 50 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-032",
+    "texto": "Paciente de 51 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-033",
+    "texto": "Paciente de 52 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-034",
+    "texto": "Paciente de 53 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-035",
+    "texto": "Paciente de 54 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-036",
+    "texto": "Paciente de 55 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-037",
+    "texto": "Paciente de 56 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-038",
+    "texto": "Paciente de 57 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-039",
+    "texto": "Paciente de 58 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N3-040",
+    "texto": "Paciente de 59 anos acude por dolor abdominal agudo persistente, desaturacion severa con saturacion o2 < 90, fiebre alta de 39 grados y vomito persistente.",
+    "nivel_esperado": 3,
+    "especialidad_esperada": "Gastroenterologia"
+  },
+  {
+    "id": "N4-001",
+    "texto": "Paciente de 25 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-002",
+    "texto": "Paciente de 26 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-003",
+    "texto": "Paciente de 27 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-004",
+    "texto": "Paciente de 28 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-005",
+    "texto": "Paciente de 29 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-006",
+    "texto": "Paciente de 30 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-007",
+    "texto": "Paciente de 31 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-008",
+    "texto": "Paciente de 32 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-009",
+    "texto": "Paciente de 33 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-010",
+    "texto": "Paciente de 34 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-011",
+    "texto": "Paciente de 35 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-012",
+    "texto": "Paciente de 36 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-013",
+    "texto": "Paciente de 37 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-014",
+    "texto": "Paciente de 38 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-015",
+    "texto": "Paciente de 39 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-016",
+    "texto": "Paciente de 40 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-017",
+    "texto": "Paciente de 41 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-018",
+    "texto": "Paciente de 42 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-019",
+    "texto": "Paciente de 43 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-020",
+    "texto": "Paciente de 44 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-021",
+    "texto": "Paciente de 45 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-022",
+    "texto": "Paciente de 46 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-023",
+    "texto": "Paciente de 47 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-024",
+    "texto": "Paciente de 48 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-025",
+    "texto": "Paciente de 49 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-026",
+    "texto": "Paciente de 50 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-027",
+    "texto": "Paciente de 51 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-028",
+    "texto": "Paciente de 52 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-029",
+    "texto": "Paciente de 53 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-030",
+    "texto": "Paciente de 54 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-031",
+    "texto": "Paciente de 55 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-032",
+    "texto": "Paciente de 56 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-033",
+    "texto": "Paciente de 57 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-034",
+    "texto": "Paciente de 58 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-035",
+    "texto": "Paciente de 59 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-036",
+    "texto": "Paciente de 60 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-037",
+    "texto": "Paciente de 61 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-038",
+    "texto": "Paciente de 62 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-039",
+    "texto": "Paciente de 63 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N4-040",
+    "texto": "Paciente de 64 anos consulta por cuadro de dolor moderado en extremidad superior derecha tras golpe leve hace dos dias, con fiebre y vomito moderado.",
+    "nivel_esperado": 4,
+    "especialidad_esperada": "Cirugia general"
+  },
+  {
+    "id": "N5-001",
+    "texto": "Paciente de 19 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-002",
+    "texto": "Paciente de 20 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-003",
+    "texto": "Paciente de 21 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-004",
+    "texto": "Paciente de 22 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-005",
+    "texto": "Paciente de 23 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-006",
+    "texto": "Paciente de 24 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-007",
+    "texto": "Paciente de 25 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-008",
+    "texto": "Paciente de 26 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-009",
+    "texto": "Paciente de 27 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-010",
+    "texto": "Paciente de 28 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-011",
+    "texto": "Paciente de 29 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-012",
+    "texto": "Paciente de 30 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-013",
+    "texto": "Paciente de 31 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-014",
+    "texto": "Paciente de 32 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-015",
+    "texto": "Paciente de 33 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-016",
+    "texto": "Paciente de 34 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-017",
+    "texto": "Paciente de 35 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-018",
+    "texto": "Paciente de 36 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-019",
+    "texto": "Paciente de 37 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-020",
+    "texto": "Paciente de 38 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-021",
+    "texto": "Paciente de 39 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-022",
+    "texto": "Paciente de 40 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-023",
+    "texto": "Paciente de 41 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-024",
+    "texto": "Paciente de 42 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-025",
+    "texto": "Paciente de 43 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-026",
+    "texto": "Paciente de 44 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-027",
+    "texto": "Paciente de 45 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-028",
+    "texto": "Paciente de 46 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-029",
+    "texto": "Paciente de 47 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-030",
+    "texto": "Paciente de 48 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-031",
+    "texto": "Paciente de 49 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-032",
+    "texto": "Paciente de 50 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-033",
+    "texto": "Paciente de 51 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-034",
+    "texto": "Paciente de 52 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-035",
+    "texto": "Paciente de 53 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-036",
+    "texto": "Paciente de 54 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-037",
+    "texto": "Paciente de 55 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-038",
+    "texto": "Paciente de 56 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-039",
+    "texto": "Paciente de 57 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  },
+  {
+    "id": "N5-040",
+    "texto": "Paciente de 58 anos asiste a consulta externa para revision de resultados de laboratorio de rutina y chequeo general, completamente asintomatico sin signos de alarma.",
+    "nivel_esperado": 5,
+    "especialidad_esperada": "Medicina general"
+  }
+]
